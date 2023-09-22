@@ -1,5 +1,5 @@
 # velesnitski.github.io
-This is a personal page
+Landing page
 
 ## Credit
 
